@@ -12,5 +12,5 @@ dependencyResolutionManagement {
         mavenCentral()
     }
 }
-rootProject.name = "DA1_Poly_N6"
+rootProject.name = "DA1_Poly_N4"
 include ':app'
