@@ -1,4 +1,4 @@
-package com.example.da1_poly_n6.Adapter_Package;
+package com.example.da1_poly_n4.Adapter_Package;
 
 import android.content.Context;
 import android.view.LayoutInflater;
@@ -9,8 +9,9 @@ import android.widget.TextView;
 import androidx.annotation.NonNull;
 import androidx.recyclerview.widget.RecyclerView;
 
-import com.example.da1_poly_n6.Model.LuuHoaDon;
-import com.example.da1_poly_n6.R;
+import com.example.da1_poly_n4.Model.LuuHoaDon;
+import com.example.da1_poly_n4.R;
+
 
 import java.util.ArrayList;
 

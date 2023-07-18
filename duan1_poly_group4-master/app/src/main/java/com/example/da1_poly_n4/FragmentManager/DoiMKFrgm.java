@@ -1,9 +1,9 @@
-package com.example.da1_poly_n6.FragmentManager;
+package com.example.da1_poly_n4.FragmentManager;
 
 import static android.content.Context.MODE_PRIVATE;
 
 import android.app.Dialog;
-import android.content.Context;
+
 import android.content.SharedPreferences;
 import android.graphics.Color;
 import android.graphics.drawable.ColorDrawable;
@@ -19,15 +19,16 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 import android.view.WindowManager;
-import android.widget.Button;
+
 import android.widget.EditText;
 import android.widget.ImageView;
 import android.widget.TextView;
 import android.widget.Toast;
 
-import com.example.da1_poly_n6.DAOModel.DAOUser;
-import com.example.da1_poly_n6.Model.User;
-import com.example.da1_poly_n6.R;
+import com.example.da1_poly_n4.DAOModel.DAOUser;
+import com.example.da1_poly_n4.Model.User;
+import com.example.da1_poly_n4.R;
+
 
 public class DoiMKFrgm extends Fragment {
 

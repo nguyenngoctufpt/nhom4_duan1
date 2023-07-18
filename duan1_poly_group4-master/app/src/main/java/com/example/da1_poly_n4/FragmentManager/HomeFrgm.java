@@ -1,4 +1,4 @@
-package com.example.da1_poly_n6.FragmentManager;
+package com.example.da1_poly_n4.FragmentManager;
 
 import static android.content.ContentValues.TAG;
 
@@ -23,15 +23,14 @@ import android.widget.LinearLayout;
 import android.widget.TextView;
 import android.widget.Toast;
 
-import com.example.da1_poly_n6.Adapter_Package.AdapterHome;
-import com.example.da1_poly_n6.Adapter_Package.AdapterSanPham;
-import com.example.da1_poly_n6.DAOModel.DAOLuuHD;
-import com.example.da1_poly_n6.DAOModel.DAOSanPham;
-import com.example.da1_poly_n6.DAOModel.DAOUser;
-import com.example.da1_poly_n6.Model.SanPham;
-import com.example.da1_poly_n6.Model.TheLoai;
-import com.example.da1_poly_n6.Model.User;
-import com.example.da1_poly_n6.R;
+
+import com.example.da1_poly_n4.Adapter_Package.AdapterHome;
+import com.example.da1_poly_n4.DAOModel.DAOLuuHD;
+import com.example.da1_poly_n4.DAOModel.DAOSanPham;
+import com.example.da1_poly_n4.DAOModel.DAOUser;
+import com.example.da1_poly_n4.Model.SanPham;
+import com.example.da1_poly_n4.Model.TheLoai;
+import com.example.da1_poly_n4.R;
 
 import java.util.ArrayList;
 

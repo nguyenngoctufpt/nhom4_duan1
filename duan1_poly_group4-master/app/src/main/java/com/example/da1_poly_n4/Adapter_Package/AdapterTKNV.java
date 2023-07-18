@@ -1,4 +1,4 @@
-package com.example.da1_poly_n6.Adapter_Package;
+package com.example.da1_poly_n4.Adapter_Package;
 
 import android.content.Context;
 import android.text.style.AlignmentSpan;
@@ -13,14 +13,12 @@ import androidx.fragment.app.FragmentActivity;
 import androidx.fragment.app.FragmentTransaction;
 import androidx.recyclerview.widget.RecyclerView;
 
-import com.example.da1_poly_n6.DAOModel.DAOGioHang;
-import com.example.da1_poly_n6.DAOModel.DAOLuuHD;
-import com.example.da1_poly_n6.DAOModel.DAOUser;
-import com.example.da1_poly_n6.FragmentManager.ViewUserInforFrgm;
-import com.example.da1_poly_n6.Model.GioHang;
-import com.example.da1_poly_n6.Model.LuuHoaDon;
-import com.example.da1_poly_n6.Model.User;
-import com.example.da1_poly_n6.R;
+import com.example.da1_poly_n4.DAOModel.DAOLuuHD;
+import com.example.da1_poly_n4.DAOModel.DAOUser;
+import com.example.da1_poly_n4.Model.LuuHoaDon;
+import com.example.da1_poly_n4.Model.User;
+import com.example.da1_poly_n4.R;
+
 
 import java.util.ArrayList;
 

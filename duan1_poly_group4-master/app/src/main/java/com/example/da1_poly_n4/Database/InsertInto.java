@@ -1,4 +1,4 @@
-package com.example.da1_poly_n6.Database;
+package com.example.da1_poly_n4.Database;
 
 public class InsertInto {
     public static final String insert_chucvu = "INSERT INTO ChucVu VALUES (1,'Quản Lý'),(2,'Nhân Viên')";

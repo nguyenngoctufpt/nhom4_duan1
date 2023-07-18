@@ -1,4 +1,4 @@
-package com.example.da1_poly_n6.DAOModel;
+package com.example.da1_poly_n4.DAOModel;
 
 import android.content.ContentValues;
 import android.content.Context;
@@ -6,11 +6,10 @@ import android.database.Cursor;
 import android.database.sqlite.SQLiteDatabase;
 import android.database.sqlite.SQLiteStatement;
 
-import com.example.da1_poly_n6.Database.DbHelper;
-import com.example.da1_poly_n6.FragmentManager.ThemSPFrgm;
-import com.example.da1_poly_n6.Model.SanPham;
-import com.example.da1_poly_n6.Model.TheLoai;
-import com.example.da1_poly_n6.Model.User;
+import com.example.da1_poly_n4.Database.DbHelper;
+import com.example.da1_poly_n4.Model.SanPham;
+import com.example.da1_poly_n4.Model.TheLoai;
+
 
 import java.util.ArrayList;
 import java.util.List;

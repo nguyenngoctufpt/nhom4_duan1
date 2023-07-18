@@ -1,12 +1,12 @@
-package com.example.da1_poly_n6.DAOModel;
+package com.example.da1_poly_n4.DAOModel;
 
 import android.content.Context;
 import android.database.Cursor;
 import android.database.sqlite.SQLiteDatabase;
 
-import com.example.da1_poly_n6.Database.DbHelper;
-import com.example.da1_poly_n6.Model.ChucVu;
-import com.example.da1_poly_n6.Model.SanPham;
+
+import com.example.da1_poly_n4.Database.DbHelper;
+import com.example.da1_poly_n4.Model.ChucVu;
 
 import java.util.ArrayList;
 import java.util.List;

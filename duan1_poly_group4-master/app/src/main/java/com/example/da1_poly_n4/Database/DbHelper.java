@@ -1,4 +1,4 @@
-package com.example.da1_poly_n6.Database;
+package com.example.da1_poly_n4.Database;
 
 import android.content.Context;
 import android.database.Cursor;

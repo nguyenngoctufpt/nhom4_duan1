@@ -1,4 +1,4 @@
-package com.example.da1_poly_n6;
+package com.example.da1_poly_n4;
 
 import androidx.appcompat.app.AppCompatActivity;
 
@@ -16,8 +16,9 @@ import android.widget.EditText;
 import android.widget.ImageView;
 import android.widget.Toast;
 
-import com.example.da1_poly_n6.DAOModel.DAOUser;
-import com.example.da1_poly_n6.Model.User;
+
+import com.example.da1_poly_n4.DAOModel.DAOUser;
+import com.example.da1_poly_n4.R;
 
 import java.util.ArrayList;
 import java.util.List;

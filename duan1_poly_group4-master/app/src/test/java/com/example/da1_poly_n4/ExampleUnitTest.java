@@ -1,4 +1,4 @@
-package com.example.da1_poly_n6;
+package com.example.da1_poly_n4;
 
 import org.junit.Test;
 

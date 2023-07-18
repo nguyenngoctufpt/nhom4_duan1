@@ -1,4 +1,4 @@
-package com.example.da1_poly_n6.Model;
+package com.example.da1_poly_n4.Model;
 
 public class User {
     int ID_User;

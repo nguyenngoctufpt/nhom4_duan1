@@ -1,4 +1,4 @@
-package com.example.da1_poly_n6.FragmentManager;
+package com.example.da1_poly_n4.FragmentManager;
 
 
 import android.os.Bundle;
@@ -10,7 +10,8 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 
-import com.example.da1_poly_n6.R;
+import com.example.da1_poly_n4.R;
+
 
 
 public class ChiTietSPFrgm extends Fragment {

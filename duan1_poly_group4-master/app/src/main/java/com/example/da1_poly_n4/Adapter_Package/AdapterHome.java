@@ -1,4 +1,4 @@
-package com.example.da1_poly_n6.Adapter_Package;
+package com.example.da1_poly_n4.Adapter_Package;
 
 import android.app.Activity;
 import android.content.Context;
@@ -9,7 +9,6 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.widget.ImageView;
 import android.widget.TextView;
-import android.widget.Toast;
 
 import androidx.annotation.NonNull;
 import androidx.fragment.app.Fragment;
@@ -17,11 +16,10 @@ import androidx.fragment.app.FragmentActivity;
 import androidx.fragment.app.FragmentTransaction;
 import androidx.recyclerview.widget.RecyclerView;
 
-import com.example.da1_poly_n6.FragmentManager.ChiTietSPFrgm;
-import com.example.da1_poly_n6.MainActivity;
-import com.example.da1_poly_n6.Model.SanPham;
-import com.example.da1_poly_n6.R;
-import com.google.android.material.bottomnavigation.BottomNavigationView;
+import com.example.da1_poly_n4.MainActivity;
+import com.example.da1_poly_n4.Model.SanPham;
+import com.example.da1_poly_n4.R;
+
 
 import java.util.ArrayList;
 

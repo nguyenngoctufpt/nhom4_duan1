@@ -1,4 +1,4 @@
-package com.example.da1_poly_n6.Adapter_Package;
+package com.example.da1_poly_n4.Adapter_Package;
 
 import android.content.Context;
 import android.content.SharedPreferences;
@@ -18,14 +18,13 @@ import androidx.fragment.app.FragmentActivity;
 import androidx.fragment.app.FragmentTransaction;
 import androidx.recyclerview.widget.RecyclerView;
 
-import com.example.da1_poly_n6.DAOModel.DAOGioHang;
-import com.example.da1_poly_n6.DAOModel.DAOUser;
-import com.example.da1_poly_n6.FragmentManager.ChiTietSPFrgm;
-import com.example.da1_poly_n6.FragmentManager.ChiTietSPSuaFrgm;
-import com.example.da1_poly_n6.Model.GioHang;
-import com.example.da1_poly_n6.Model.SanPham;
-import com.example.da1_poly_n6.Model.User;
-import com.example.da1_poly_n6.R;
+import com.example.da1_poly_n4.DAOModel.DAOGioHang;
+import com.example.da1_poly_n4.DAOModel.DAOUser;
+import com.example.da1_poly_n4.Model.GioHang;
+import com.example.da1_poly_n4.Model.SanPham;
+import com.example.da1_poly_n4.Model.User;
+import com.example.da1_poly_n4.R;
+
 import com.google.android.material.bottomnavigation.BottomNavigationView;
 
 import java.util.ArrayList;
