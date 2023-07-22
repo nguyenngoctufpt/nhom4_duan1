@@ -1,0 +1,434 @@
+[
+    {
+        "merged": "E:\\nhom4_duan1-thuynv_update_matkhau\\nhom4_duan1-thuynv_update_matkhau\\duan1_poly_group4-master\\app\\build\\intermediates\\merged_res\\debug\\layout_card_view_hoadon.xml.flat",
+        "source": "E:\\nhom4_duan1-thuynv_update_matkhau\\nhom4_duan1-thuynv_update_matkhau\\duan1_poly_group4-master\\app\\src\\main\\res\\layout\\card_view_hoadon.xml"
+    },
+    {
+        "merged": "E:\\nhom4_duan1-thuynv_update_matkhau\\nhom4_duan1-thuynv_update_matkhau\\duan1_poly_group4-master\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_phone.xml.flat",
+        "source": "E:\\nhom4_duan1-thuynv_update_matkhau\\nhom4_duan1-thuynv_update_matkhau\\duan1_poly_group4-master\\app\\src\\main\\res\\drawable\\ic_phone.xml"
+    },
+    {
+        "merged": "E:\\nhom4_duan1-thuynv_update_matkhau\\nhom4_duan1-thuynv_update_matkhau\\duan1_poly_group4-master\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "E:\\nhom4_duan1-thuynv_update_matkhau\\nhom4_duan1-thuynv_update_matkhau\\duan1_poly_group4-master\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "E:\\nhom4_duan1-thuynv_update_matkhau\\nhom4_duan1-thuynv_update_matkhau\\duan1_poly_group4-master\\app\\build\\intermediates\\merged_res\\debug\\layout_card_view_sanpham.xml.flat",
+        "source": "E:\\nhom4_duan1-thuynv_update_matkhau\\nhom4_duan1-thuynv_update_matkhau\\duan1_poly_group4-master\\app\\src\\main\\res\\layout\\card_view_sanpham.xml"
+    },
+    {
+        "merged": "E:\\nhom4_duan1-thuynv_update_matkhau\\nhom4_duan1-thuynv_update_matkhau\\duan1_poly_group4-master\\app\\build\\intermediates\\merged_res\\debug\\drawable_ct_dialog.xml.flat",
+        "source": "E:\\nhom4_duan1-thuynv_update_matkhau\\nhom4_duan1-thuynv_update_matkhau\\duan1_poly_group4-master\\app\\src\\main\\res\\drawable\\ct_dialog.xml"
+    },
+    {
+        "merged": "E:\\nhom4_duan1-thuynv_update_matkhau\\nhom4_duan1-thuynv_update_matkhau\\duan1_poly_group4-master\\app\\build\\intermediates\\merged_res\\debug\\layout_item_thongkedoanhthu.xml.flat",
+        "source": "E:\\nhom4_duan1-thuynv_update_matkhau\\nhom4_duan1-thuynv_update_matkhau\\duan1_poly_group4-master\\app\\src\\main\\res\\layout\\item_thongkedoanhthu.xml"
+    },
+    {
+        "merged": "E:\\nhom4_duan1-thuynv_update_matkhau\\nhom4_duan1-thuynv_update_matkhau\\duan1_poly_group4-master\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_them_l_s_p.xml.flat",
+        "source": "E:\\nhom4_duan1-thuynv_update_matkhau\\nhom4_duan1-thuynv_update_matkhau\\duan1_poly_group4-master\\app\\src\\main\\res\\layout\\fragment_them_l_s_p.xml"
+    },
+    {
+        "merged": "E:\\nhom4_duan1-thuynv_update_matkhau\\nhom4_duan1-thuynv_update_matkhau\\duan1_poly_group4-master\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_them_s_p_frgm.xml.flat",
+        "source": "E:\\nhom4_duan1-thuynv_update_matkhau\\nhom4_duan1-thuynv_update_matkhau\\duan1_poly_group4-master\\app\\src\\main\\res\\layout\\fragment_them_s_p_frgm.xml"
+    },
+    {
+        "merged": "E:\\nhom4_duan1-thuynv_update_matkhau\\nhom4_duan1-thuynv_update_matkhau\\duan1_poly_group4-master\\app\\build\\intermediates\\merged_res\\debug\\drawable_background_trangxam.xml.flat",
+        "source": "E:\\nhom4_duan1-thuynv_update_matkhau\\nhom4_duan1-thuynv_update_matkhau\\duan1_poly_group4-master\\app\\src\\main\\res\\drawable\\background_trangxam.xml"
+    },
+    {
+        "merged": "E:\\nhom4_duan1-thuynv_update_matkhau\\nhom4_duan1-thuynv_update_matkhau\\duan1_poly_group4-master\\app\\build\\intermediates\\merged_res\\debug\\drawable_img_acc.jpg.flat",
+        "source": "E:\\nhom4_duan1-thuynv_update_matkhau\\nhom4_duan1-thuynv_update_matkhau\\duan1_poly_group4-master\\app\\src\\main\\res\\drawable\\img_acc.jpg"
+    },
+    {
+        "merged": "E:\\nhom4_duan1-thuynv_update_matkhau\\nhom4_duan1-thuynv_update_matkhau\\duan1_poly_group4-master\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "E:\\nhom4_duan1-thuynv_update_matkhau\\nhom4_duan1-thuynv_update_matkhau\\duan1_poly_group4-master\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\nhom4_duan1-thuynv_update_matkhau\\nhom4_duan1-thuynv_update_matkhau\\duan1_poly_group4-master\\app\\build\\intermediates\\merged_res\\debug\\font_ct_font_regular.ttf.flat",
+        "source": "E:\\nhom4_duan1-thuynv_update_matkhau\\nhom4_duan1-thuynv_update_matkhau\\duan1_poly_group4-master\\app\\src\\main\\res\\font\\ct_font_regular.ttf"
+    },
+    {
+        "merged": "E:\\nhom4_duan1-thuynv_update_matkhau\\nhom4_duan1-thuynv_update_matkhau\\duan1_poly_group4-master\\app\\build\\intermediates\\merged_res\\debug\\layout_list_san_pham.xml.flat",
+        "source": "E:\\nhom4_duan1-thuynv_update_matkhau\\nhom4_duan1-thuynv_update_matkhau\\duan1_poly_group4-master\\app\\src\\main\\res\\layout\\list_san_pham.xml"
+    },
+    {
+        "merged": "E:\\nhom4_duan1-thuynv_update_matkhau\\nhom4_duan1-thuynv_update_matkhau\\duan1_poly_group4-master\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_home_frgm.xml.flat",
+        "source": "E:\\nhom4_duan1-thuynv_update_matkhau\\nhom4_duan1-thuynv_update_matkhau\\duan1_poly_group4-master\\app\\src\\main\\res\\layout\\fragment_home_frgm.xml"
+    },
+    {
+        "merged": "E:\\nhom4_duan1-thuynv_update_matkhau\\nhom4_duan1-thuynv_update_matkhau\\duan1_poly_group4-master\\app\\build\\intermediates\\merged_res\\debug\\drawable_search.png.flat",
+        "source": "E:\\nhom4_duan1-thuynv_update_matkhau\\nhom4_duan1-thuynv_update_matkhau\\duan1_poly_group4-master\\app\\src\\main\\res\\drawable\\search.png"
+    },
+    {
+        "merged": "E:\\nhom4_duan1-thuynv_update_matkhau\\nhom4_duan1-thuynv_update_matkhau\\duan1_poly_group4-master\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_sua_s_p_frgm.xml.flat",
+        "source": "E:\\nhom4_duan1-thuynv_update_matkhau\\nhom4_duan1-thuynv_update_matkhau\\duan1_poly_group4-master\\app\\src\\main\\res\\layout\\fragment_sua_s_p_frgm.xml"
+    },
+    {
+        "merged": "E:\\nhom4_duan1-thuynv_update_matkhau\\nhom4_duan1-thuynv_update_matkhau\\duan1_poly_group4-master\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_remove_2.xml.flat",
+        "source": "E:\\nhom4_duan1-thuynv_update_matkhau\\nhom4_duan1-thuynv_update_matkhau\\duan1_poly_group4-master\\app\\src\\main\\res\\drawable\\ic_remove_2.xml"
+    },
+    {
+        "merged": "E:\\nhom4_duan1-thuynv_update_matkhau\\nhom4_duan1-thuynv_update_matkhau\\duan1_poly_group4-master\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_them_nhan_vien_frgm.xml.flat",
+        "source": "E:\\nhom4_duan1-thuynv_update_matkhau\\nhom4_duan1-thuynv_update_matkhau\\duan1_poly_group4-master\\app\\src\\main\\res\\layout\\fragment_them_nhan_vien_frgm.xml"
+    },
+    {
+        "merged": "E:\\nhom4_duan1-thuynv_update_matkhau\\nhom4_duan1-thuynv_update_matkhau\\duan1_poly_group4-master\\app\\build\\intermediates\\merged_res\\debug\\layout_cardview_sp_home.xml.flat",
+        "source": "E:\\nhom4_duan1-thuynv_update_matkhau\\nhom4_duan1-thuynv_update_matkhau\\duan1_poly_group4-master\\app\\src\\main\\res\\layout\\cardview_sp_home.xml"
+    },
+    {
+        "merged": "E:\\nhom4_duan1-thuynv_update_matkhau\\nhom4_duan1-thuynv_update_matkhau\\duan1_poly_group4-master\\app\\build\\intermediates\\merged_res\\debug\\drawable_bottom_nav_color.xml.flat",
+        "source": "E:\\nhom4_duan1-thuynv_update_matkhau\\nhom4_duan1-thuynv_update_matkhau\\duan1_poly_group4-master\\app\\src\\main\\res\\drawable\\bottom_nav_color.xml"
+    },
+    {
+        "merged": "E:\\nhom4_duan1-thuynv_update_matkhau\\nhom4_duan1-thuynv_update_matkhau\\duan1_poly_group4-master\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_edit.xml.flat",
+        "source": "E:\\nhom4_duan1-thuynv_update_matkhau\\nhom4_duan1-thuynv_update_matkhau\\duan1_poly_group4-master\\app\\src\\main\\res\\drawable\\ic_edit.xml"
+    },
+    {
+        "merged": "E:\\nhom4_duan1-thuynv_update_matkhau\\nhom4_duan1-thuynv_update_matkhau\\duan1_poly_group4-master\\app\\build\\intermediates\\merged_res\\debug\\layout_spinner_ma_loai.xml.flat",
+        "source": "E:\\nhom4_duan1-thuynv_update_matkhau\\nhom4_duan1-thuynv_update_matkhau\\duan1_poly_group4-master\\app\\src\\main\\res\\layout\\spinner_ma_loai.xml"
+    },
+    {
+        "merged": "E:\\nhom4_duan1-thuynv_update_matkhau\\nhom4_duan1-thuynv_update_matkhau\\duan1_poly_group4-master\\app\\build\\intermediates\\merged_res\\debug\\font_ct_font_bold.ttf.flat",
+        "source": "E:\\nhom4_duan1-thuynv_update_matkhau\\nhom4_duan1-thuynv_update_matkhau\\duan1_poly_group4-master\\app\\src\\main\\res\\font\\ct_font_bold.ttf"
+    },
+    {
+        "merged": "E:\\nhom4_duan1-thuynv_update_matkhau\\nhom4_duan1-thuynv_update_matkhau\\duan1_poly_group4-master\\app\\build\\intermediates\\merged_res\\debug\\drawable_user_avatar.png.flat",
+        "source": "E:\\nhom4_duan1-thuynv_update_matkhau\\nhom4_duan1-thuynv_update_matkhau\\duan1_poly_group4-master\\app\\src\\main\\res\\drawable\\user_avatar.png"
+    },
+    {
+        "merged": "E:\\nhom4_duan1-thuynv_update_matkhau\\nhom4_duan1-thuynv_update_matkhau\\duan1_poly_group4-master\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_doi_m_k_frgm.xml.flat",
+        "source": "E:\\nhom4_duan1-thuynv_update_matkhau\\nhom4_duan1-thuynv_update_matkhau\\duan1_poly_group4-master\\app\\src\\main\\res\\layout\\fragment_doi_m_k_frgm.xml"
+    },
+    {
+        "merged": "E:\\nhom4_duan1-thuynv_update_matkhau\\nhom4_duan1-thuynv_update_matkhau\\duan1_poly_group4-master\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_t_k_nhan_vien_frgm.xml.flat",
+        "source": "E:\\nhom4_duan1-thuynv_update_matkhau\\nhom4_duan1-thuynv_update_matkhau\\duan1_poly_group4-master\\app\\src\\main\\res\\layout\\fragment_t_k_nhan_vien_frgm.xml"
+    },
+    {
+        "merged": "E:\\nhom4_duan1-thuynv_update_matkhau\\nhom4_duan1-thuynv_update_matkhau\\duan1_poly_group4-master\\app\\build\\intermediates\\merged_res\\debug\\drawable_ct_edittext.xml.flat",
+        "source": "E:\\nhom4_duan1-thuynv_update_matkhau\\nhom4_duan1-thuynv_update_matkhau\\duan1_poly_group4-master\\app\\src\\main\\res\\drawable\\ct_edittext.xml"
+    },
+    {
+        "merged": "E:\\nhom4_duan1-thuynv_update_matkhau\\nhom4_duan1-thuynv_update_matkhau\\duan1_poly_group4-master\\app\\build\\intermediates\\merged_res\\debug\\drawable_ct_edittext_2.xml.flat",
+        "source": "E:\\nhom4_duan1-thuynv_update_matkhau\\nhom4_duan1-thuynv_update_matkhau\\duan1_poly_group4-master\\app\\src\\main\\res\\drawable\\ct_edittext_2.xml"
+    },
+    {
+        "merged": "E:\\nhom4_duan1-thuynv_update_matkhau\\nhom4_duan1-thuynv_update_matkhau\\duan1_poly_group4-master\\app\\build\\intermediates\\merged_res\\debug\\drawable_bo_tron_edt.xml.flat",
+        "source": "E:\\nhom4_duan1-thuynv_update_matkhau\\nhom4_duan1-thuynv_update_matkhau\\duan1_poly_group4-master\\app\\src\\main\\res\\drawable\\bo_tron_edt.xml"
+    },
+    {
+        "merged": "E:\\nhom4_duan1-thuynv_update_matkhau\\nhom4_duan1-thuynv_update_matkhau\\duan1_poly_group4-master\\app\\build\\intermediates\\merged_res\\debug\\layout_dialog_thanh_toan.xml.flat",
+        "source": "E:\\nhom4_duan1-thuynv_update_matkhau\\nhom4_duan1-thuynv_update_matkhau\\duan1_poly_group4-master\\app\\src\\main\\res\\layout\\dialog_thanh_toan.xml"
+    },
+    {
+        "merged": "E:\\nhom4_duan1-thuynv_update_matkhau\\nhom4_duan1-thuynv_update_matkhau\\duan1_poly_group4-master\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "E:\\nhom4_duan1-thuynv_update_matkhau\\nhom4_duan1-thuynv_update_matkhau\\duan1_poly_group4-master\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "E:\\nhom4_duan1-thuynv_update_matkhau\\nhom4_duan1-thuynv_update_matkhau\\duan1_poly_group4-master\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "E:\\nhom4_duan1-thuynv_update_matkhau\\nhom4_duan1-thuynv_update_matkhau\\duan1_poly_group4-master\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "E:\\nhom4_duan1-thuynv_update_matkhau\\nhom4_duan1-thuynv_update_matkhau\\duan1_poly_group4-master\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_store_frgm.xml.flat",
+        "source": "E:\\nhom4_duan1-thuynv_update_matkhau\\nhom4_duan1-thuynv_update_matkhau\\duan1_poly_group4-master\\app\\src\\main\\res\\layout\\fragment_store_frgm.xml"
+    },
+    {
+        "merged": "E:\\nhom4_duan1-thuynv_update_matkhau\\nhom4_duan1-thuynv_update_matkhau\\duan1_poly_group4-master\\app\\build\\intermediates\\merged_res\\debug\\drawable_img_banner.png.flat",
+        "source": "E:\\nhom4_duan1-thuynv_update_matkhau\\nhom4_duan1-thuynv_update_matkhau\\duan1_poly_group4-master\\app\\src\\main\\res\\drawable\\img_banner.png"
+    },
+    {
+        "merged": "E:\\nhom4_duan1-thuynv_update_matkhau\\nhom4_duan1-thuynv_update_matkhau\\duan1_poly_group4-master\\app\\build\\intermediates\\merged_res\\debug\\drawable_plus.png.flat",
+        "source": "E:\\nhom4_duan1-thuynv_update_matkhau\\nhom4_duan1-thuynv_update_matkhau\\duan1_poly_group4-master\\app\\src\\main\\res\\drawable\\plus.png"
+    },
+    {
+        "merged": "E:\\nhom4_duan1-thuynv_update_matkhau\\nhom4_duan1-thuynv_update_matkhau\\duan1_poly_group4-master\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_baseline_refresh_24.xml.flat",
+        "source": "E:\\nhom4_duan1-thuynv_update_matkhau\\nhom4_duan1-thuynv_update_matkhau\\duan1_poly_group4-master\\app\\src\\main\\res\\drawable\\ic_baseline_refresh_24.xml"
+    },
+    {
+        "merged": "E:\\nhom4_duan1-thuynv_update_matkhau\\nhom4_duan1-thuynv_update_matkhau\\duan1_poly_group4-master\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_notifications.xml.flat",
+        "source": "E:\\nhom4_duan1-thuynv_update_matkhau\\nhom4_duan1-thuynv_update_matkhau\\duan1_poly_group4-master\\app\\src\\main\\res\\drawable\\ic_notifications.xml"
+    },
+    {
+        "merged": "E:\\nhom4_duan1-thuynv_update_matkhau\\nhom4_duan1-thuynv_update_matkhau\\duan1_poly_group4-master\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_remove.xml.flat",
+        "source": "E:\\nhom4_duan1-thuynv_update_matkhau\\nhom4_duan1-thuynv_update_matkhau\\duan1_poly_group4-master\\app\\src\\main\\res\\drawable\\ic_remove.xml"
+    },
+    {
+        "merged": "E:\\nhom4_duan1-thuynv_update_matkhau\\nhom4_duan1-thuynv_update_matkhau\\duan1_poly_group4-master\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_baseline_password_24.xml.flat",
+        "source": "E:\\nhom4_duan1-thuynv_update_matkhau\\nhom4_duan1-thuynv_update_matkhau\\duan1_poly_group4-master\\app\\src\\main\\res\\drawable\\ic_baseline_password_24.xml"
+    },
+    {
+        "merged": "E:\\nhom4_duan1-thuynv_update_matkhau\\nhom4_duan1-thuynv_update_matkhau\\duan1_poly_group4-master\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_baseline_account_circle_24.xml.flat",
+        "source": "E:\\nhom4_duan1-thuynv_update_matkhau\\nhom4_duan1-thuynv_update_matkhau\\duan1_poly_group4-master\\app\\src\\main\\res\\drawable\\ic_baseline_account_circle_24.xml"
+    },
+    {
+        "merged": "E:\\nhom4_duan1-thuynv_update_matkhau\\nhom4_duan1-thuynv_update_matkhau\\duan1_poly_group4-master\\app\\build\\intermediates\\merged_res\\debug\\drawable_ct_button.xml.flat",
+        "source": "E:\\nhom4_duan1-thuynv_update_matkhau\\nhom4_duan1-thuynv_update_matkhau\\duan1_poly_group4-master\\app\\src\\main\\res\\drawable\\ct_button.xml"
+    },
+    {
+        "merged": "E:\\nhom4_duan1-thuynv_update_matkhau\\nhom4_duan1-thuynv_update_matkhau\\duan1_poly_group4-master\\app\\build\\intermediates\\merged_res\\debug\\drawable_store.png.flat",
+        "source": "E:\\nhom4_duan1-thuynv_update_matkhau\\nhom4_duan1-thuynv_update_matkhau\\duan1_poly_group4-master\\app\\src\\main\\res\\drawable\\store.png"
+    },
+    {
+        "merged": "E:\\nhom4_duan1-thuynv_update_matkhau\\nhom4_duan1-thuynv_update_matkhau\\duan1_poly_group4-master\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_baseline_calendar_month_24.xml.flat",
+        "source": "E:\\nhom4_duan1-thuynv_update_matkhau\\nhom4_duan1-thuynv_update_matkhau\\duan1_poly_group4-master\\app\\src\\main\\res\\drawable\\ic_baseline_calendar_month_24.xml"
+    },
+    {
+        "merged": "E:\\nhom4_duan1-thuynv_update_matkhau\\nhom4_duan1-thuynv_update_matkhau\\duan1_poly_group4-master\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_mhchao.xml.flat",
+        "source": "E:\\nhom4_duan1-thuynv_update_matkhau\\nhom4_duan1-thuynv_update_matkhau\\duan1_poly_group4-master\\app\\src\\main\\res\\layout\\activity_mhchao.xml"
+    },
+    {
+        "merged": "E:\\nhom4_duan1-thuynv_update_matkhau\\nhom4_duan1-thuynv_update_matkhau\\duan1_poly_group4-master\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_add.xml.flat",
+        "source": "E:\\nhom4_duan1-thuynv_update_matkhau\\nhom4_duan1-thuynv_update_matkhau\\duan1_poly_group4-master\\app\\src\\main\\res\\drawable\\ic_add.xml"
+    },
+    {
+        "merged": "E:\\nhom4_duan1-thuynv_update_matkhau\\nhom4_duan1-thuynv_update_matkhau\\duan1_poly_group4-master\\app\\build\\intermediates\\merged_res\\debug\\layout_dialog_confirm.xml.flat",
+        "source": "E:\\nhom4_duan1-thuynv_update_matkhau\\nhom4_duan1-thuynv_update_matkhau\\duan1_poly_group4-master\\app\\src\\main\\res\\layout\\dialog_confirm.xml"
+    },
+    {
+        "merged": "E:\\nhom4_duan1-thuynv_update_matkhau\\nhom4_duan1-thuynv_update_matkhau\\duan1_poly_group4-master\\app\\build\\intermediates\\merged_res\\debug\\layout_dialog_notifi.xml.flat",
+        "source": "E:\\nhom4_duan1-thuynv_update_matkhau\\nhom4_duan1-thuynv_update_matkhau\\duan1_poly_group4-master\\app\\src\\main\\res\\layout\\dialog_notifi.xml"
+    },
+    {
+        "merged": "E:\\nhom4_duan1-thuynv_update_matkhau\\nhom4_duan1-thuynv_update_matkhau\\duan1_poly_group4-master\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_baseline_person_add_alt_1_24.xml.flat",
+        "source": "E:\\nhom4_duan1-thuynv_update_matkhau\\nhom4_duan1-thuynv_update_matkhau\\duan1_poly_group4-master\\app\\src\\main\\res\\drawable\\ic_baseline_person_add_alt_1_24.xml"
+    },
+    {
+        "merged": "E:\\nhom4_duan1-thuynv_update_matkhau\\nhom4_duan1-thuynv_update_matkhau\\duan1_poly_group4-master\\app\\build\\intermediates\\merged_res\\debug\\drawable_bac_xiu.png.flat",
+        "source": "E:\\nhom4_duan1-thuynv_update_matkhau\\nhom4_duan1-thuynv_update_matkhau\\duan1_poly_group4-master\\app\\src\\main\\res\\drawable\\bac_xiu.png"
+    },
+    {
+        "merged": "E:\\nhom4_duan1-thuynv_update_matkhau\\nhom4_duan1-thuynv_update_matkhau\\duan1_poly_group4-master\\app\\build\\intermediates\\merged_res\\debug\\drawable_btn_add_sp.png.flat",
+        "source": "E:\\nhom4_duan1-thuynv_update_matkhau\\nhom4_duan1-thuynv_update_matkhau\\duan1_poly_group4-master\\app\\src\\main\\res\\drawable\\btn_add_sp.png"
+    },
+    {
+        "merged": "E:\\nhom4_duan1-thuynv_update_matkhau\\nhom4_duan1-thuynv_update_matkhau\\duan1_poly_group4-master\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "E:\\nhom4_duan1-thuynv_update_matkhau\\nhom4_duan1-thuynv_update_matkhau\\duan1_poly_group4-master\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\nhom4_duan1-thuynv_update_matkhau\\nhom4_duan1-thuynv_update_matkhau\\duan1_poly_group4-master\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_baseline_playlist_add_24.xml.flat",
+        "source": "E:\\nhom4_duan1-thuynv_update_matkhau\\nhom4_duan1-thuynv_update_matkhau\\duan1_poly_group4-master\\app\\src\\main\\res\\drawable\\ic_baseline_playlist_add_24.xml"
+    },
+    {
+        "merged": "E:\\nhom4_duan1-thuynv_update_matkhau\\nhom4_duan1-thuynv_update_matkhau\\duan1_poly_group4-master\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_baseline_edit_24.xml.flat",
+        "source": "E:\\nhom4_duan1-thuynv_update_matkhau\\nhom4_duan1-thuynv_update_matkhau\\duan1_poly_group4-master\\app\\src\\main\\res\\drawable\\ic_baseline_edit_24.xml"
+    },
+    {
+        "merged": "E:\\nhom4_duan1-thuynv_update_matkhau\\nhom4_duan1-thuynv_update_matkhau\\duan1_poly_group4-master\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_main.xml.flat",
+        "source": "E:\\nhom4_duan1-thuynv_update_matkhau\\nhom4_duan1-thuynv_update_matkhau\\duan1_poly_group4-master\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "E:\\nhom4_duan1-thuynv_update_matkhau\\nhom4_duan1-thuynv_update_matkhau\\duan1_poly_group4-master\\app\\build\\intermediates\\merged_res\\debug\\font_ct_font_medium.ttf.flat",
+        "source": "E:\\nhom4_duan1-thuynv_update_matkhau\\nhom4_duan1-thuynv_update_matkhau\\duan1_poly_group4-master\\app\\src\\main\\res\\font\\ct_font_medium.ttf"
+    },
+    {
+        "merged": "E:\\nhom4_duan1-thuynv_update_matkhau\\nhom4_duan1-thuynv_update_matkhau\\duan1_poly_group4-master\\app\\build\\intermediates\\merged_res\\debug\\drawable_btn_dangnhap.jpg.flat",
+        "source": "E:\\nhom4_duan1-thuynv_update_matkhau\\nhom4_duan1-thuynv_update_matkhau\\duan1_poly_group4-master\\app\\src\\main\\res\\drawable\\btn_dangnhap.jpg"
+    },
+    {
+        "merged": "E:\\nhom4_duan1-thuynv_update_matkhau\\nhom4_duan1-thuynv_update_matkhau\\duan1_poly_group4-master\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_add_product.xml.flat",
+        "source": "E:\\nhom4_duan1-thuynv_update_matkhau\\nhom4_duan1-thuynv_update_matkhau\\duan1_poly_group4-master\\app\\src\\main\\res\\drawable\\ic_add_product.xml"
+    },
+    {
+        "merged": "E:\\nhom4_duan1-thuynv_update_matkhau\\nhom4_duan1-thuynv_update_matkhau\\duan1_poly_group4-master\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_person_add.xml.flat",
+        "source": "E:\\nhom4_duan1-thuynv_update_matkhau\\nhom4_duan1-thuynv_update_matkhau\\duan1_poly_group4-master\\app\\src\\main\\res\\drawable\\ic_person_add.xml"
+    },
+    {
+        "merged": "E:\\nhom4_duan1-thuynv_update_matkhau\\nhom4_duan1-thuynv_update_matkhau\\duan1_poly_group4-master\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "E:\\nhom4_duan1-thuynv_update_matkhau\\nhom4_duan1-thuynv_update_matkhau\\duan1_poly_group4-master\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "E:\\nhom4_duan1-thuynv_update_matkhau\\nhom4_duan1-thuynv_update_matkhau\\duan1_poly_group4-master\\app\\build\\intermediates\\merged_res\\debug\\drawable_logout.xml.flat",
+        "source": "E:\\nhom4_duan1-thuynv_update_matkhau\\nhom4_duan1-thuynv_update_matkhau\\duan1_poly_group4-master\\app\\src\\main\\res\\drawable\\logout.xml"
+    },
+    {
+        "merged": "E:\\nhom4_duan1-thuynv_update_matkhau\\nhom4_duan1-thuynv_update_matkhau\\duan1_poly_group4-master\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_user_info_frgm.xml.flat",
+        "source": "E:\\nhom4_duan1-thuynv_update_matkhau\\nhom4_duan1-thuynv_update_matkhau\\duan1_poly_group4-master\\app\\src\\main\\res\\layout\\fragment_user_info_frgm.xml"
+    },
+    {
+        "merged": "E:\\nhom4_duan1-thuynv_update_matkhau\\nhom4_duan1-thuynv_update_matkhau\\duan1_poly_group4-master\\app\\build\\intermediates\\merged_res\\debug\\drawable_item_layout.xml.flat",
+        "source": "E:\\nhom4_duan1-thuynv_update_matkhau\\nhom4_duan1-thuynv_update_matkhau\\duan1_poly_group4-master\\app\\src\\main\\res\\drawable\\item_layout.xml"
+    },
+    {
+        "merged": "E:\\nhom4_duan1-thuynv_update_matkhau\\nhom4_duan1-thuynv_update_matkhau\\duan1_poly_group4-master\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_chi_tiet_s_p_frgm.xml.flat",
+        "source": "E:\\nhom4_duan1-thuynv_update_matkhau\\nhom4_duan1-thuynv_update_matkhau\\duan1_poly_group4-master\\app\\src\\main\\res\\layout\\fragment_chi_tiet_s_p_frgm.xml"
+    },
+    {
+        "merged": "E:\\nhom4_duan1-thuynv_update_matkhau\\nhom4_duan1-thuynv_update_matkhau\\duan1_poly_group4-master\\app\\build\\intermediates\\merged_res\\debug\\menu_menu.xml.flat",
+        "source": "E:\\nhom4_duan1-thuynv_update_matkhau\\nhom4_duan1-thuynv_update_matkhau\\duan1_poly_group4-master\\app\\src\\main\\res\\menu\\menu.xml"
+    },
+    {
+        "merged": "E:\\nhom4_duan1-thuynv_update_matkhau\\nhom4_duan1-thuynv_update_matkhau\\duan1_poly_group4-master\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_thong_tin_n_v_frgm.xml.flat",
+        "source": "E:\\nhom4_duan1-thuynv_update_matkhau\\nhom4_duan1-thuynv_update_matkhau\\duan1_poly_group4-master\\app\\src\\main\\res\\layout\\fragment_thong_tin_n_v_frgm.xml"
+    },
+    {
+        "merged": "E:\\nhom4_duan1-thuynv_update_matkhau\\nhom4_duan1-thuynv_update_matkhau\\duan1_poly_group4-master\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "E:\\nhom4_duan1-thuynv_update_matkhau\\nhom4_duan1-thuynv_update_matkhau\\duan1_poly_group4-master\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "E:\\nhom4_duan1-thuynv_update_matkhau\\nhom4_duan1-thuynv_update_matkhau\\duan1_poly_group4-master\\app\\build\\intermediates\\merged_res\\debug\\layout_dialog_filters.xml.flat",
+        "source": "E:\\nhom4_duan1-thuynv_update_matkhau\\nhom4_duan1-thuynv_update_matkhau\\duan1_poly_group4-master\\app\\src\\main\\res\\layout\\dialog_filters.xml"
+    },
+    {
+        "merged": "E:\\nhom4_duan1-thuynv_update_matkhau\\nhom4_duan1-thuynv_update_matkhau\\duan1_poly_group4-master\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_baseline_groups_24.xml.flat",
+        "source": "E:\\nhom4_duan1-thuynv_update_matkhau\\nhom4_duan1-thuynv_update_matkhau\\duan1_poly_group4-master\\app\\src\\main\\res\\drawable\\ic_baseline_groups_24.xml"
+    },
+    {
+        "merged": "E:\\nhom4_duan1-thuynv_update_matkhau\\nhom4_duan1-thuynv_update_matkhau\\duan1_poly_group4-master\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "E:\\nhom4_duan1-thuynv_update_matkhau\\nhom4_duan1-thuynv_update_matkhau\\duan1_poly_group4-master\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "E:\\nhom4_duan1-thuynv_update_matkhau\\nhom4_duan1-thuynv_update_matkhau\\duan1_poly_group4-master\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_to_back.xml.flat",
+        "source": "E:\\nhom4_duan1-thuynv_update_matkhau\\nhom4_duan1-thuynv_update_matkhau\\duan1_poly_group4-master\\app\\src\\main\\res\\drawable\\ic_to_back.xml"
+    },
+    {
+        "merged": "E:\\nhom4_duan1-thuynv_update_matkhau\\nhom4_duan1-thuynv_update_matkhau\\duan1_poly_group4-master\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "E:\\nhom4_duan1-thuynv_update_matkhau\\nhom4_duan1-thuynv_update_matkhau\\duan1_poly_group4-master\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\nhom4_duan1-thuynv_update_matkhau\\nhom4_duan1-thuynv_update_matkhau\\duan1_poly_group4-master\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_filter.xml.flat",
+        "source": "E:\\nhom4_duan1-thuynv_update_matkhau\\nhom4_duan1-thuynv_update_matkhau\\duan1_poly_group4-master\\app\\src\\main\\res\\drawable\\ic_filter.xml"
+    },
+    {
+        "merged": "E:\\nhom4_duan1-thuynv_update_matkhau\\nhom4_duan1-thuynv_update_matkhau\\duan1_poly_group4-master\\app\\build\\intermediates\\merged_res\\debug\\layout_card_view_gio_hang.xml.flat",
+        "source": "E:\\nhom4_duan1-thuynv_update_matkhau\\nhom4_duan1-thuynv_update_matkhau\\duan1_poly_group4-master\\app\\src\\main\\res\\layout\\card_view_gio_hang.xml"
+    },
+    {
+        "merged": "E:\\nhom4_duan1-thuynv_update_matkhau\\nhom4_duan1-thuynv_update_matkhau\\duan1_poly_group4-master\\app\\build\\intermediates\\merged_res\\debug\\layout_item_thongkenhanvien.xml.flat",
+        "source": "E:\\nhom4_duan1-thuynv_update_matkhau\\nhom4_duan1-thuynv_update_matkhau\\duan1_poly_group4-master\\app\\src\\main\\res\\layout\\item_thongkenhanvien.xml"
+    },
+    {
+        "merged": "E:\\nhom4_duan1-thuynv_update_matkhau\\nhom4_duan1-thuynv_update_matkhau\\duan1_poly_group4-master\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "E:\\nhom4_duan1-thuynv_update_matkhau\\nhom4_duan1-thuynv_update_matkhau\\duan1_poly_group4-master\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "E:\\nhom4_duan1-thuynv_update_matkhau\\nhom4_duan1-thuynv_update_matkhau\\duan1_poly_group4-master\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "E:\\nhom4_duan1-thuynv_update_matkhau\\nhom4_duan1-thuynv_update_matkhau\\duan1_poly_group4-master\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "E:\\nhom4_duan1-thuynv_update_matkhau\\nhom4_duan1-thuynv_update_matkhau\\duan1_poly_group4-master\\app\\build\\intermediates\\merged_res\\debug\\drawable_button1.xml.flat",
+        "source": "E:\\nhom4_duan1-thuynv_update_matkhau\\nhom4_duan1-thuynv_update_matkhau\\duan1_poly_group4-master\\app\\src\\main\\res\\drawable\\button1.xml"
+    },
+    {
+        "merged": "E:\\nhom4_duan1-thuynv_update_matkhau\\nhom4_duan1-thuynv_update_matkhau\\duan1_poly_group4-master\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_account_frgm.xml.flat",
+        "source": "E:\\nhom4_duan1-thuynv_update_matkhau\\nhom4_duan1-thuynv_update_matkhau\\duan1_poly_group4-master\\app\\src\\main\\res\\layout\\fragment_account_frgm.xml"
+    },
+    {
+        "merged": "E:\\nhom4_duan1-thuynv_update_matkhau\\nhom4_duan1-thuynv_update_matkhau\\duan1_poly_group4-master\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "E:\\nhom4_duan1-thuynv_update_matkhau\\nhom4_duan1-thuynv_update_matkhau\\duan1_poly_group4-master\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\nhom4_duan1-thuynv_update_matkhau\\nhom4_duan1-thuynv_update_matkhau\\duan1_poly_group4-master\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_hide_on.xml.flat",
+        "source": "E:\\nhom4_duan1-thuynv_update_matkhau\\nhom4_duan1-thuynv_update_matkhau\\duan1_poly_group4-master\\app\\src\\main\\res\\drawable\\ic_hide_on.xml"
+    },
+    {
+        "merged": "E:\\nhom4_duan1-thuynv_update_matkhau\\nhom4_duan1-thuynv_update_matkhau\\duan1_poly_group4-master\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "E:\\nhom4_duan1-thuynv_update_matkhau\\nhom4_duan1-thuynv_update_matkhau\\duan1_poly_group4-master\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "E:\\nhom4_duan1-thuynv_update_matkhau\\nhom4_duan1-thuynv_update_matkhau\\duan1_poly_group4-master\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_baseline_logout_24.xml.flat",
+        "source": "E:\\nhom4_duan1-thuynv_update_matkhau\\nhom4_duan1-thuynv_update_matkhau\\duan1_poly_group4-master\\app\\src\\main\\res\\drawable\\ic_baseline_logout_24.xml"
+    },
+    {
+        "merged": "E:\\nhom4_duan1-thuynv_update_matkhau\\nhom4_duan1-thuynv_update_matkhau\\duan1_poly_group4-master\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_calendar.xml.flat",
+        "source": "E:\\nhom4_duan1-thuynv_update_matkhau\\nhom4_duan1-thuynv_update_matkhau\\duan1_poly_group4-master\\app\\src\\main\\res\\drawable\\ic_calendar.xml"
+    },
+    {
+        "merged": "E:\\nhom4_duan1-thuynv_update_matkhau\\nhom4_duan1-thuynv_update_matkhau\\duan1_poly_group4-master\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_dang_nhap.xml.flat",
+        "source": "E:\\nhom4_duan1-thuynv_update_matkhau\\nhom4_duan1-thuynv_update_matkhau\\duan1_poly_group4-master\\app\\src\\main\\res\\layout\\activity_dang_nhap.xml"
+    },
+    {
+        "merged": "E:\\nhom4_duan1-thuynv_update_matkhau\\nhom4_duan1-thuynv_update_matkhau\\duan1_poly_group4-master\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_search.xml.flat",
+        "source": "E:\\nhom4_duan1-thuynv_update_matkhau\\nhom4_duan1-thuynv_update_matkhau\\duan1_poly_group4-master\\app\\src\\main\\res\\drawable\\ic_search.xml"
+    },
+    {
+        "merged": "E:\\nhom4_duan1-thuynv_update_matkhau\\nhom4_duan1-thuynv_update_matkhau\\duan1_poly_group4-master\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_add_circle.xml.flat",
+        "source": "E:\\nhom4_duan1-thuynv_update_matkhau\\nhom4_duan1-thuynv_update_matkhau\\duan1_poly_group4-master\\app\\src\\main\\res\\drawable\\ic_add_circle.xml"
+    },
+    {
+        "merged": "E:\\nhom4_duan1-thuynv_update_matkhau\\nhom4_duan1-thuynv_update_matkhau\\duan1_poly_group4-master\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "E:\\nhom4_duan1-thuynv_update_matkhau\\nhom4_duan1-thuynv_update_matkhau\\duan1_poly_group4-master\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "E:\\nhom4_duan1-thuynv_update_matkhau\\nhom4_duan1-thuynv_update_matkhau\\duan1_poly_group4-master\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_chi_tiet_s_p_sua_frgm.xml.flat",
+        "source": "E:\\nhom4_duan1-thuynv_update_matkhau\\nhom4_duan1-thuynv_update_matkhau\\duan1_poly_group4-master\\app\\src\\main\\res\\layout\\fragment_chi_tiet_s_p_sua_frgm.xml"
+    },
+    {
+        "merged": "E:\\nhom4_duan1-thuynv_update_matkhau\\nhom4_duan1-thuynv_update_matkhau\\duan1_poly_group4-master\\app\\build\\intermediates\\merged_res\\debug\\drawable_img_user.png.flat",
+        "source": "E:\\nhom4_duan1-thuynv_update_matkhau\\nhom4_duan1-thuynv_update_matkhau\\duan1_poly_group4-master\\app\\src\\main\\res\\drawable\\img_user.png"
+    },
+    {
+        "merged": "E:\\nhom4_duan1-thuynv_update_matkhau\\nhom4_duan1-thuynv_update_matkhau\\duan1_poly_group4-master\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_visibility_off.xml.flat",
+        "source": "E:\\nhom4_duan1-thuynv_update_matkhau\\nhom4_duan1-thuynv_update_matkhau\\duan1_poly_group4-master\\app\\src\\main\\res\\drawable\\ic_visibility_off.xml"
+    },
+    {
+        "merged": "E:\\nhom4_duan1-thuynv_update_matkhau\\nhom4_duan1-thuynv_update_matkhau\\duan1_poly_group4-master\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_baseline_bookmark_add_24.xml.flat",
+        "source": "E:\\nhom4_duan1-thuynv_update_matkhau\\nhom4_duan1-thuynv_update_matkhau\\duan1_poly_group4-master\\app\\src\\main\\res\\drawable\\ic_baseline_bookmark_add_24.xml"
+    },
+    {
+        "merged": "E:\\nhom4_duan1-thuynv_update_matkhau\\nhom4_duan1-thuynv_update_matkhau\\duan1_poly_group4-master\\app\\build\\intermediates\\merged_res\\debug\\drawable_img_logo.png.flat",
+        "source": "E:\\nhom4_duan1-thuynv_update_matkhau\\nhom4_duan1-thuynv_update_matkhau\\duan1_poly_group4-master\\app\\src\\main\\res\\drawable\\img_logo.png"
+    },
+    {
+        "merged": "E:\\nhom4_duan1-thuynv_update_matkhau\\nhom4_duan1-thuynv_update_matkhau\\duan1_poly_group4-master\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "E:\\nhom4_duan1-thuynv_update_matkhau\\nhom4_duan1-thuynv_update_matkhau\\duan1_poly_group4-master\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\nhom4_duan1-thuynv_update_matkhau\\nhom4_duan1-thuynv_update_matkhau\\duan1_poly_group4-master\\app\\build\\intermediates\\merged_res\\debug\\drawable_account.png.flat",
+        "source": "E:\\nhom4_duan1-thuynv_update_matkhau\\nhom4_duan1-thuynv_update_matkhau\\duan1_poly_group4-master\\app\\src\\main\\res\\drawable\\account.png"
+    },
+    {
+        "merged": "E:\\nhom4_duan1-thuynv_update_matkhau\\nhom4_duan1-thuynv_update_matkhau\\duan1_poly_group4-master\\app\\build\\intermediates\\merged_res\\debug\\drawable_dateicon.png.flat",
+        "source": "E:\\nhom4_duan1-thuynv_update_matkhau\\nhom4_duan1-thuynv_update_matkhau\\duan1_poly_group4-master\\app\\src\\main\\res\\drawable\\dateicon.png"
+    },
+    {
+        "merged": "E:\\nhom4_duan1-thuynv_update_matkhau\\nhom4_duan1-thuynv_update_matkhau\\duan1_poly_group4-master\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_view_user_infor_frgm.xml.flat",
+        "source": "E:\\nhom4_duan1-thuynv_update_matkhau\\nhom4_duan1-thuynv_update_matkhau\\duan1_poly_group4-master\\app\\src\\main\\res\\layout\\fragment_view_user_infor_frgm.xml"
+    },
+    {
+        "merged": "E:\\nhom4_duan1-thuynv_update_matkhau\\nhom4_duan1-thuynv_update_matkhau\\duan1_poly_group4-master\\app\\build\\intermediates\\merged_res\\debug\\drawable_home.png.flat",
+        "source": "E:\\nhom4_duan1-thuynv_update_matkhau\\nhom4_duan1-thuynv_update_matkhau\\duan1_poly_group4-master\\app\\src\\main\\res\\drawable\\home.png"
+    },
+    {
+        "merged": "E:\\nhom4_duan1-thuynv_update_matkhau\\nhom4_duan1-thuynv_update_matkhau\\duan1_poly_group4-master\\app\\build\\intermediates\\merged_res\\debug\\drawable_background_trangxam1.xml.flat",
+        "source": "E:\\nhom4_duan1-thuynv_update_matkhau\\nhom4_duan1-thuynv_update_matkhau\\duan1_poly_group4-master\\app\\src\\main\\res\\drawable\\background_trangxam1.xml"
+    },
+    {
+        "merged": "E:\\nhom4_duan1-thuynv_update_matkhau\\nhom4_duan1-thuynv_update_matkhau\\duan1_poly_group4-master\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_thongke.xml.flat",
+        "source": "E:\\nhom4_duan1-thuynv_update_matkhau\\nhom4_duan1-thuynv_update_matkhau\\duan1_poly_group4-master\\app\\src\\main\\res\\drawable\\ic_thongke.xml"
+    },
+    {
+        "merged": "E:\\nhom4_duan1-thuynv_update_matkhau\\nhom4_duan1-thuynv_update_matkhau\\duan1_poly_group4-master\\app\\build\\intermediates\\merged_res\\debug\\drawable_img_add_img.png.flat",
+        "source": "E:\\nhom4_duan1-thuynv_update_matkhau\\nhom4_duan1-thuynv_update_matkhau\\duan1_poly_group4-master\\app\\src\\main\\res\\drawable\\img_add_img.png"
+    },
+    {
+        "merged": "E:\\nhom4_duan1-thuynv_update_matkhau\\nhom4_duan1-thuynv_update_matkhau\\duan1_poly_group4-master\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_bacham.xml.flat",
+        "source": "E:\\nhom4_duan1-thuynv_update_matkhau\\nhom4_duan1-thuynv_update_matkhau\\duan1_poly_group4-master\\app\\src\\main\\res\\drawable\\ic_bacham.xml"
+    },
+    {
+        "merged": "E:\\nhom4_duan1-thuynv_update_matkhau\\nhom4_duan1-thuynv_update_matkhau\\duan1_poly_group4-master\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_baseline_payments_24.xml.flat",
+        "source": "E:\\nhom4_duan1-thuynv_update_matkhau\\nhom4_duan1-thuynv_update_matkhau\\duan1_poly_group4-master\\app\\src\\main\\res\\drawable\\ic_baseline_payments_24.xml"
+    },
+    {
+        "merged": "E:\\nhom4_duan1-thuynv_update_matkhau\\nhom4_duan1-thuynv_update_matkhau\\duan1_poly_group4-master\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_t_k_doanh_thu_frgm.xml.flat",
+        "source": "E:\\nhom4_duan1-thuynv_update_matkhau\\nhom4_duan1-thuynv_update_matkhau\\duan1_poly_group4-master\\app\\src\\main\\res\\layout\\fragment_t_k_doanh_thu_frgm.xml"
+    },
+    {
+        "merged": "E:\\nhom4_duan1-thuynv_update_matkhau\\nhom4_duan1-thuynv_update_matkhau\\duan1_poly_group4-master\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_product_frgm.xml.flat",
+        "source": "E:\\nhom4_duan1-thuynv_update_matkhau\\nhom4_duan1-thuynv_update_matkhau\\duan1_poly_group4-master\\app\\src\\main\\res\\layout\\fragment_product_frgm.xml"
+    },
+    {
+        "merged": "E:\\nhom4_duan1-thuynv_update_matkhau\\nhom4_duan1-thuynv_update_matkhau\\duan1_poly_group4-master\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_payments.xml.flat",
+        "source": "E:\\nhom4_duan1-thuynv_update_matkhau\\nhom4_duan1-thuynv_update_matkhau\\duan1_poly_group4-master\\app\\src\\main\\res\\drawable\\ic_payments.xml"
+    },
+    {
+        "merged": "E:\\nhom4_duan1-thuynv_update_matkhau\\nhom4_duan1-thuynv_update_matkhau\\duan1_poly_group4-master\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_back.xml.flat",
+        "source": "E:\\nhom4_duan1-thuynv_update_matkhau\\nhom4_duan1-thuynv_update_matkhau\\duan1_poly_group4-master\\app\\src\\main\\res\\drawable\\ic_back.xml"
+    },
+    {
+        "merged": "E:\\nhom4_duan1-thuynv_update_matkhau\\nhom4_duan1-thuynv_update_matkhau\\duan1_poly_group4-master\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_sua_n_v_frgm.xml.flat",
+        "source": "E:\\nhom4_duan1-thuynv_update_matkhau\\nhom4_duan1-thuynv_update_matkhau\\duan1_poly_group4-master\\app\\src\\main\\res\\layout\\fragment_sua_n_v_frgm.xml"
+    },
+    {
+        "merged": "E:\\nhom4_duan1-thuynv_update_matkhau\\nhom4_duan1-thuynv_update_matkhau\\duan1_poly_group4-master\\app\\build\\intermediates\\merged_res\\debug\\drawable_product.png.flat",
+        "source": "E:\\nhom4_duan1-thuynv_update_matkhau\\nhom4_duan1-thuynv_update_matkhau\\duan1_poly_group4-master\\app\\src\\main\\res\\drawable\\product.png"
+    }
+]
